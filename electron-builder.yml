@@ -2,7 +2,7 @@ appId: 'mcklauncher'
 productName: 'MCK Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2024 Minecraft Content Korea'
+copyright: 'Copyright © 2018-2024 Daniel Scalzi modified by injeolmi12'
 
 asar: true
 compression: 'maximum'
