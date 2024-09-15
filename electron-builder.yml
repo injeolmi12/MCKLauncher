@@ -52,4 +52,4 @@ directories:
 
 publish:
   provider: 'generic'
-  url: 'http://mck.mcv.kr:59303/'
+  url: 'http://mck.mcv.kr:59303/Nebula'
