@@ -2,7 +2,7 @@ appId: 'mcklauncher'
 productName: 'MCK Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2024 Daniel Scalzi'
+copyright: 'Copyright © 2024 Minecraft Content Korea'
 
 asar: true
 compression: 'maximum'
@@ -42,10 +42,14 @@ linux:
   maintainer: 'Daniel Scalzi, injeolmi'
   vendor: 'Daniel Scalzi, injeolmi'
   synopsis: 'Modded Minecraft Launcher'
-  description: 'Custom launcher which allows users to join modded servers. All mods, configurations, and updates are handled automatically.'
-  category: 'Game'
+  description: 'M.C.K Public Custom Launcher'
+  category: 'public.app-category.games'
 
 
 directories:
   buildResources: 'build'
   output: 'dist'
+
+publish:
+  provider: 'generic'
+  url: 'http://mck.mcv.kr:59303/'
