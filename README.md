@@ -12,4 +12,4 @@
 
 #### 현재 최신 릴리즈
 
-[![](https://img.shields.io/github/release/djl987645/MCKLauncher.svg?style=flat-square)](https://github.com/injeolmi12/MCKLauncher/releases/latest) <-- 이 버튼을 클릭하면 다운로드 페이지로 이동합니다
+[![](https://img.shields.io/github/release/injeolmi12/MCKLauncher.svg?style=flat-square)](https://github.com/injeolmi12/MCKLauncher/releases/latest) <-- 이 버튼을 클릭하면 다운로드 페이지로 이동합니다
