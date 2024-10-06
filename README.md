@@ -8,7 +8,7 @@
 
 ## 다운로드
 
-[GitHub Releases] (https://github.com/djl987645/MCKLauncher/releases) 에서 다운로드 받을 수 있습니다.
+[GitHub Releases](https://github.com/djl987645/MCKLauncher/releases) 에서 다운로드 받을 수 있습니다.
 
 #### 현재 최신 릴리즈
 
