@@ -1453,7 +1453,7 @@ function populateAboutVersionInformation(){
  */
 function populateReleaseNotes(){
     $.ajax({
-        url: 'https://github.com/injeolmi12/MCKLauncher/releases.atom',
+        url: 'https://api.github.com/repos/injeolmi12/MCKLauncher/releases/latest',
         success: (data) => {
             const version = 'v' + remote.app.getVersion()
             const entries = $(data).find('entry')
